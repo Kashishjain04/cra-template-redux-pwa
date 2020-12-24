@@ -11,8 +11,7 @@
   "description": "The template for Create React App with Redux and PWA.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kashishjain04/cra-redux-pwa.git",
-    "directory": "/"
+    "url": "https://github.com/Kashishjain04/cra-redux-pwa-template.git",
   },  
   "engines": {
     "node": ">=10"
